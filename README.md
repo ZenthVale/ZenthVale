@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm LuckyRoux 
+# 🌟 Hi there! I'm ZenthVale
 
 ## 👨‍💻 About Me
 - 🎓 Passionate about physics, astronomy, and coding.
