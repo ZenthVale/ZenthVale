@@ -5,7 +5,7 @@
 - 💻 Developer proficient in C++, Python, and Kotlin.
 - 🚀 Exploring ways to integrate AI into game development and scientific projects.
 
-##Languages 
+## Languages 
 
 ![image](https://github.com/user-attachments/assets/305dce29-47ba-460f-9b39-163188586337)
 ![image](https://github.com/user-attachments/assets/de9a64d3-2055-4109-807a-832254e7ce5b)
